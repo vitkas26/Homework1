@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">homework1</string>
+    <string name="type_your_name">Type your name:</string>
+    <string name="beginner">Beginner</string>
+    <string name="junior">Junior</string>
+    <string name="dark">Dark</string>
+    <string name="white">White</string>
+    <string name="see_result">See result!</string>
+    <string name="go_to_next_activity">Go to next activity</string>
+    <string name="married">Married</string>
+    <string name="type_your_name_second_activity">Type your name</string>
+    <string name="where_are_you_from">Where are you from?</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="type_your_password">Type your password</string>
+    <string name="type_your_age">Type your age</string>
+    <string name="type_your_email">Type your email</string>
+    <string name="Welcome">Welcome to Lesson1</string>
 </resources>
