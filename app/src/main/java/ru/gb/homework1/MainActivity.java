@@ -29,10 +29,10 @@ public class MainActivity extends AppCompatActivity {
         nameEt = findViewById(R.id.name_edit_text);
         linearLayout = findViewById(R.id.linear_layout);
 
-        SwitchMaterial martialStatusSw = findViewById(R.id.marital_status_switch);
-        CheckBox beginnerLevelCb = findViewById(R.id.level_beginner_checkBox);
-        CheckBox juniorLevelCb = findViewById(R.id.level_junior_checkBox);
-        ToggleButton backgroundTb = findViewById(R.id.switch_background_toggleButton);
+        SwitchMaterial martialStatusSw = findViewById(R.id.martial_status_switch);
+        CheckBox beginnerLevelCb = findViewById(R.id.level_beginner_check_box);
+        CheckBox juniorLevelCb = findViewById(R.id.level_junior_check_box);
+        ToggleButton backgroundTb = findViewById(R.id.switch_background_toggle_button);
         Button button = findViewById(R.id.button);
         Button buttonNextActivity = findViewById(R.id.next_activity_button);
 
